@@ -1,4 +1,6 @@
-## Hi There👋I'm Yuvraj Alone
+
+<h1 align="center"> Hy There👋 I'm Yuvraj Alone</h1>
+
 <!--
 **YuvrajAlone/YuvrajAlone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
